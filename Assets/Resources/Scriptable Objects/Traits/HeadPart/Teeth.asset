@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3a8e28a00fe6704db565f866ed0d935, type: 3}
+  m_Name: Teeth
+  m_EditorClassIdentifier: 
+  evoCost: 3
+  icon: {fileID: 21300000, guid: 5c7c7924fb0c3a34abb162fbd883534f, type: 3}
+  name: "\u5229\u7259"
+  description: "- \u653B\u64CA+20\n- \u300C\u9F5C\u7259\u300D"
+  statsModifier:
+    isMultiplier: 0
+    life: 0
+    attack: 20
+    defense: 0
+    mobility: 0
+    courage: 0
+  actives:
+  - {fileID: 11400000, guid: 16dde356fae7cf8419d2f24aea4c697d, type: 2}
+  passives: []

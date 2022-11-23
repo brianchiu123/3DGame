@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f4f037a27ce63d42a05d68ffa385057, type: 3}
+  m_Name: Beak Attack
+  m_EditorClassIdentifier: 
+  title: "\u5544\u64CA"
+  description: "- \u9020\u6210\u50B7\u5BB3"
+  effect:
+    type: 0
+    target: 0
+    coefficient:
+      baseAmount: 40
+      coefLife: 0
+      coefAttack: 0.75
+      coefDefense: 0
+      coefMobility: 0
+      cofeCourage: 0
+    statsChange:
+      targetStats: 0
+      ratio: 0
+    control: 0

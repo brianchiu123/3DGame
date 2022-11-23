@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 709d9956953da524794f03fd805611f9, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: 
+  Health: 150
+  _Health: 0
+  stats:
+    life: 150
+    attack: 65
+    defense: 35
+    mobility: 35
+    courage: 50
+    _life: 150
+    _attack: 65
+    _defense: 35
+    _mobility: 35
+    _courage: 50
+  actives: []
+  passives: []

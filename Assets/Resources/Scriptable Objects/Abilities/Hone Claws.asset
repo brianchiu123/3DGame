@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f4f037a27ce63d42a05d68ffa385057, type: 3}
+  m_Name: Hone Claws
+  m_EditorClassIdentifier: 
+  title: "\u632B\u722A\u5229\u7259"
+  description: "\u78E8\u5229\u81EA\u5DF1\u7684\u722A\u5B50\u8207\u5C16\u7259\u3002\n-
+    \u63D0\u5347\u653B\u64CA"
+  effect:
+    type: 3
+    target: 1
+    coefficient:
+      baseAmount: 0
+      coefLife: 0
+      coefAttack: 0
+      coefDefense: 0
+      coefMobility: 0
+      cofeCourage: 0
+    statsChange:
+      targetStats: 1
+      ratio: 0.25
+    control: 0

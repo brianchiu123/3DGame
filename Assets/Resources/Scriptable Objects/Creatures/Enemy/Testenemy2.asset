@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 709d9956953da524794f03fd805611f9, type: 3}
+  m_Name: Testenemy2
+  m_EditorClassIdentifier: 
+  Health: 120
+  stats:
+    life: 100
+    attack: 50
+    defense: 50
+    mobility: 20
+    courage: 50
+    _life: 120
+    _attack: 50
+    _defense: 50
+    _mobility: 20
+    _courage: 50
+  actives:
+  - {fileID: 11400000, guid: 16dde356fae7cf8419d2f24aea4c697d, type: 2}
+  - {fileID: 11400000, guid: eebad877cb9074448ad008d758d6a16c, type: 2}
+  passives: []
