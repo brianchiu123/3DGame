@@ -23,7 +23,7 @@
 * 儲存數值、技能  資料型態設計
 * 進化系統、數值與技能設計
 * 技術性問題
-*Scriptable Object 存儲
-*字體消失
-*腳本間Assembly Definifition 工具的不熟悉
-*Plastic SCM 工具的不熟悉
+>* Scriptable Object 存儲
+>* 字體消失
+>* 腳本間Assembly Definifition 工具的不熟悉
+>* Plastic SCM 工具的不熟悉
