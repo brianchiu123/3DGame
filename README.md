@@ -27,3 +27,9 @@
 >* 字體消失
 >* 腳本間Assembly Definifition 工具的不熟悉
 >* Plastic SCM 工具的不熟悉
+
+#### 類似概念遊戲
+
+* 殺戮尖塔 Slay the Spire：回合卡牌、Rogue-like
+* Legend of keepers : 回合制戰鬥、Rogue-like
+![image](https://user-images.githubusercontent.com/29274119/204975537-f0d7d978-55f2-4fc6-8b96-f6b8c4826cba.png)
